@@ -1,4 +1,3 @@
-# Noshin's-portfolio
 ## Project 1: AtliQ Company Sales Analysis (2017-2020)
 
 ### Introduction
