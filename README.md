@@ -19,7 +19,7 @@ Evaluate the contribution of these products to total revenue.
 Dashboard & Visualizations:
 
 A Tableau dashboard has been created to visualize the data. It includes revenue trends, top products, and other key insights.
-[publication](https://prod-apnortheast-a.online.tableau.com/t/noshinrazaniazec22a102124edaa926/views/SalesInsightsprojectforATLIQ/Dashboard1)
+[publication](https://prod-apnortheast-a.online.tableau.com/t/noshinrazaniazec22a102124edaa926/views/salesinsightsproject/Dashboard1?:origin=card_share_link&:embed=n)
 Provide actionable insights and recommendations for future sales strategies.
 
 Conclusion
